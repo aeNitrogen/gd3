@@ -1,6 +1,6 @@
 """
 Casted linear and the trunc_normal initialization have been taken from https://github.com/SamsungSAILMontreal/TinyRecursiveModels
-Author: Ann Comes
+Author: Thorben Comes (Ann Comes)
 """
 import einops
 import torch
